@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![southouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=southouse)](https://github.com/southouse) &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southouse&layout=compact)
+[![southouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=southouse)](https://github.com/southouse) &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southouse&layout=compact) 
 
 
 
